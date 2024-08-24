@@ -443,13 +443,8 @@ print(f"{celsius}°C equivale a {fahrenheit}°F")
 
 6. Operadores lógicos (`not`, `and`, `or`)
 
-  
-
-  
-
-Aqui está o guia para baixar e instalar o Git, configurar sua identidade, gerar uma chave SSH e adicioná-la ao GitHub, formatado em Markdown:
-
-  
+   
+ 
 
   
 
